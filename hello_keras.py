@@ -1,3 +1,8 @@
+"""Implements section 3.4 of 'Deep Learning with Python.' 
+
+That section focuses on a binary classification problem using
+IMDB movie reviews.
+"""
 from keras.datasets import imdb
 from keras import layers
 from keras import losses

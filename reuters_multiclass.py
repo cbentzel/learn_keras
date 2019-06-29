@@ -1,4 +1,8 @@
-"""Following Section 3.5 in Deep Learning with Python."""
+"""Following Section 3.5 in Deep Learning with Python.
+
+That section focuses on a multi-class classification
+problem using Reuters news articles.
+"""
 
 from keras.datasets import reuters
 from keras import layers
